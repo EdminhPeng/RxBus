@@ -1,0 +1,2 @@
+# RxBus
+一个基于Rx简单好用并可绑定Android生命周期的RxBus
