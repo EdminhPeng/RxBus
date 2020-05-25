@@ -1,0 +1,3 @@
+rootProject.name='RxBus'
+include ':app'
+include ':rxbus'
